@@ -12,7 +12,7 @@
 ## ScreenShots
 
 ![frontPage](/assets/images/screenShot.jpg)
-[Video Demo]()
+[Video Demo](https://www.youtube.com/watch?v=wrMsHAbRxDU)
 
 ## Acceptance Criteria :
 
